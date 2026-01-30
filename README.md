@@ -1,7 +1,9 @@
 # Minegrad: Gradient Inversion Attacks on LoRA Fine-Tuning
 <img src="Attack_image.jpg" width="800"/>
 
-## How to Run
+This repository contains the code associated with the attack propsed in the paper.
+
+## Short Details about the Files
 1. Design_Model_LORA.py contains the malicious design of some layers from pretrained model.
 2. roberta_module.py contains the code for inserting LORA modules in the Roberta-base architecture.
 3. User_Train.py contains the code for training in the user side.
