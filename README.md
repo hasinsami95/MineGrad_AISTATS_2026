@@ -1,5 +1,5 @@
 # Minegrad: Gradient Inversion Attacks on LoRA Fine-Tuning
-<img src="Attack_image.png" width="800"/>
+<img src="Attack_image.jpg" width="800"/>
 
 ## How to Run
 1. Design_Model_LORA.py contains the malicious design of some layers from pretrained model.
